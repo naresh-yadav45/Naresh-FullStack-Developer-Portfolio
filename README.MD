@@ -119,7 +119,6 @@ I enjoy creating interactive user experiences, solving technical problems, and d
 
 - **LinkedIn:** [Naresh Yadav](https://linkedin.com/in/naresh-yadav045)
 - **Email:** [ny7976540@gmail.com](mailto:ny7976540@gmail.com)
-- **GitHub:** [Your GitHub Profile](https://github.com/YOUR-USERNAME)
 
 ## 📄 License
 
